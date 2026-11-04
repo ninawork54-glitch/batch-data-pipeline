@@ -131,7 +131,3 @@ tests/            unit tests for each layer
 scripts/          deterministic sample-data generator
 docker/           Postgres init for the analytics database
 ```
-
-## License
-
-MIT. See `LICENSE`.
